@@ -11,7 +11,6 @@ def algoritmo_quadratico(n):
         for j in range(n):
             soma += 1
 
-# Bateria de testes
 tamanhos = [1000, 5000, 10000]
 
 print("--- Testando Algoritmo Linear O(n) ---")
