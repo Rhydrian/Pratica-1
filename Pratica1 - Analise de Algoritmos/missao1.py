@@ -26,3 +26,4 @@ for n in tamanhos:
     algoritmo_quadratico(n)
     fim = time.time()
     print(f"n = {n:5d} | Tempo: {fim - inicio:.5f} segundos")
+    
